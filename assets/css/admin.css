@@ -1,0 +1,15 @@
+/* 
+    Document   : admin
+    Created on : Dec 28, 2015, 12:10:28 PM
+    Author     : Codeprey Team
+    Description: Purpose of the stylesheet follows.
+*/
+
+.add,.remove{cursor: pointer;}
+body.popups_page_video #wpbody-content .wrap{
+	background: #fff none repeat scroll 0 0;
+}
+body.popups_page_video #wpbody-content .wrap h2{padding:10px 20px; border-bottom: 1px solid #f4f4f4;}
+body.popups_page_video #wpbody-content .wrap form{
+	padding:0px 20px 10px ;
+}
